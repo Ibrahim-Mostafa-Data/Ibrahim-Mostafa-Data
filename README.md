@@ -18,10 +18,10 @@ I transform raw data into actionable insights and interactive dashboards to driv
 ### 🌟 Featured Projects
 
 * 🔹 **[Olist E-Commerce Analytics](https://github.com/Ibrahim-Mostafa-Data)** | End-to-End SQL Server, Python & Power BI
-* 🔹 **[Sales & Supply Chain](https://github.com/Ibrahim-Mostafa-Data)** | Excel & Power BI Dashboard
 * 🔹 **[Enterprise HR Analytics](https://github.com/Ibrahim-Mostafa-Data)** | SQL Server & Power BI
 * 🔹 **[Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data)** | Python & Power BI
-* 🔹 **[Healthcare Analytics](https://github.com/Ibrahim-Mostafa-Data)** | Python & Tableau
+* 🔹 **[Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data)** | Python & Tableau
+* 🔹 **[Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data)** | Advanced Excel (Power Query & Data Model)
 * 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data)** | Power BI
 
 ### 📬 Connect with Me
