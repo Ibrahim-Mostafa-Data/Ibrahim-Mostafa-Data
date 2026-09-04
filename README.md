@@ -17,12 +17,14 @@ I transform raw data into actionable insights and interactive dashboards to driv
 
 ### 🌟 Featured Projects
 
-* 🔹 **E-Commerce Data Analysis** - Detailed analysis of sales performance and customer retention using SQL & Power BI.
-* 🔹 **HR Analytics Dashboard** - Interactive dashboard to track employee performance and attrition rates.
-* 🔹 **Sales & Supply Chain Dashboard** - End-to-end data cleaning, modeling, and visualization in Excel & Power BI.
+🌟 Featured Projects
 
----
-
+* 🔹 [Olist E-commerce Analytics](https://github.com/Ibrahim-Mostafa-Data) - Detailed analysis of sales performance and customer retention using SQL Server, Python & Power BI.
+* 🔹 [Enterprise HR Analytics (AdventureWorks)](https://github.com/Ibrahim-Mostafa-Data) - Interactive dashboard to track employee performance and attrition rates using SQL Server & Power BI.
+* 🔹 [Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data) - End-to-end data cleaning, modeling, and visualization using Python & Power BI.
+* 🔹 [Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data) - Clinical and operational performance visualization and patient metrics analysis in Tableau.
+* 🔹 [Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data) - Advanced dynamic data modeling, KPIs tracking, and business reporting in Excel.
+* 🔹 [Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data) - Hospitality analytics tracking occupancy rates, revenue, and guest satisfaction in Power BI.
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
