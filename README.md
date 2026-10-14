@@ -22,7 +22,7 @@ I transform raw data into actionable insights and interactive dashboards to driv
 * 🔹 **[Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics)** | Python & Power BI
 * 🔹 **[Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes-)** | Python & Tableau
 * 🔹 **[Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance/tree/main)** | Advanced Excel (Power Query & Data Model)
-* 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data)** | Power BI
+* 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data/-Tourism-Hotels-Performance-/tree/main)** | Power BI
 
 ### 📬 Connect with Me
 
