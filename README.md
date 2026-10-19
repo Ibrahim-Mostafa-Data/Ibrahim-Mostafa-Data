@@ -5,6 +5,11 @@ I transform raw data into actionable insights and interactive dashboards to driv
 
 ---
 
+### 📄 Resume / CV
+- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)**
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -17,15 +22,15 @@ I transform raw data into actionable insights and interactive dashboards to driv
 
 ### 🌟 Featured Projects
 
-* 🔹 **[Olist E-Commerce Analytics](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics)** | End-to-End SQL Server, Python & Power BI
-* 🔹 **[Enterprise HR Analytics](https://github.com/Ibrahim-Mostafa-Data/-Enterprise-HR-Analytics/tree/main)** | SQL Server & Power BI
-* 🔹 **[Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics)** | Python & Power BI
-* 🔹 **[Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes-)** | Python & Tableau
-* 🔹 **[Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance/tree/main)** | Advanced Excel (Power Query & Data Model)
-* 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data/-Tourism-Hotels-Performance-/tree/main)** | Power BI
+- 🔹 **[Olist E-Commerce Analytics](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics)** | End-to-End SQL Server, Python & Power BI
+- 🔹 **[Enterprise HR Analytics](https://github.com/Ibrahim-Mostafa-Data/-Enterprise-HR-Analytics/tree/main)** | SQL Server & Power BI
+- 🔹 **[Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics)** | Python & Power BI
+- 🔹 **[Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes-)** | Python & Tableau
+- 🔹 **[Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance/tree/main)** | Advanced Excel (Power Query & Data Model)
+- 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data/-Tourism-Hotels-Performance-/tree/main)** | Power BI
+
+---
 
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
-📄 CV: [Download CV (PDF)](https://github.com/Ibrahim-Mostafa-Data/Ibrahim-Mostafa-Data/blob/main/Junior_Data_Analyst_Ebrahim_Mostafa_final.pdf)
