@@ -27,3 +27,5 @@ I transform raw data into actionable insights and interactive dashboards to driv
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+📄 CV: [Download CV (PDF)](https://github.com/Ibrahim-Mostafa-Data/Ibrahim-Mostafa-Data/blob/main/Junior_Data_Analyst_Ebrahim_Mostafa_final.pdf)
