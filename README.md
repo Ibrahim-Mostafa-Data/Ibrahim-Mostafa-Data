@@ -31,4 +31,4 @@ I transform raw data into actionable insights and interactive dashboards to driv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
 ### 📄 Resume / CV
-- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)**[cite: 1]
+- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)
