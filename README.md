@@ -5,11 +5,6 @@ I transform raw data into actionable insights and interactive dashboards to driv
 
 ---
 
-### 📄 Resume / CV
-- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)**
-
----
-
 ### 🛠 Tech Stack & Tools
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -34,3 +29,6 @@ I transform raw data into actionable insights and interactive dashboards to driv
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+
+### 📄 Resume / CV
+- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)**[cite: 1]
