@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ebrahim Mostafa
-### 📊 Junior Data Analyst | BI Developer
+### 📊 Junior Data Analyst | Power BI
 
 I transform raw data into actionable insights and interactive dashboards to drive data-driven business decisions.
 
