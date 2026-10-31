@@ -1,34 +1,30 @@
-# 👋 Hi, I'm Ebrahim Mostafa
-### 📊 Junior Data Analyst | Power BI
+# Hi there, I'm Ebrahim Mostafa 👋
 
+### 📊 Junior Data Analyst | Power BI & SQL Specialist
 I transform raw data into actionable insights and interactive dashboards to drive data-driven business decisions.
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+### 🛠️ Tech Stack & Tools
+- **Languages & Querying:** `Python` `SQL (SQL Server)` `DAX`
+- **BI & Visualization:** `Power BI` `Tableau` `Excel (Power Query & Data Model)`
+- **Core Skills:** Data Cleaning, ETL, Data Modeling, Exploratory Data Analysis (EDA), Dashboarding
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Projects
 
-- 🔹 **[Olist E-Commerce Analytics](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics)** | End-to-End SQL Server, Python & Power BI
-- 🔹 **[Enterprise HR Analytics](https://github.com/Ibrahim-Mostafa-Data/-Enterprise-HR-Analytics/tree/main)** | SQL Server & Power BI
-- 🔹 **[Supply Chain & Logistics](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics)** | Python & Power BI
-- 🔹 **[Healthcare & Patient Outcomes](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes-)** | Python & Tableau
-- 🔹 **[Executive Sales & Performance](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance/tree/main)** | Advanced Excel (Power Query & Data Model)
-- 🔹 **[Tourism & Hotels Performance](https://github.com/Ibrahim-Mostafa-Data/-Tourism-Hotels-Performance-/tree/main)** | Power BI
+#### 1. 🛒 [Olist E-Commerce Analytics](https://github.com/your-username/project-repo)
+- **Tech:** SQL Server, Python, Power BI
+- **Overview:** End-to-end data analysis pipeline covering customer segmentation and sales trends.
+
+#### 2. 👥 [Enterprise HR Analytics](https://github.com/your-username/project-repo)
+- **Tech:** SQL Server, Power BI
+- **Overview:** Interactive dashboard for monitoring employee attrition and performance metrics.
 
 ---
 
 ### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
-### 📄 Resume / CV
-- 📄 **[Download My Resume (DOCX)](./Junior_Data_Analyst_Ebrahim_Mostafa.docx)**
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+- **Email:** ebrahim@example.com
+- **Location:** Egypt (Open to Remote & Relocation)
