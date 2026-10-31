@@ -1,62 +1,52 @@
-# Ebrahim Mostafa
+# Hi there, I'm Ebrahim Mostafa 👋
 
-### Junior Data Analyst · Power BI · SQL · Python · Excel
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-
-I turn raw operational data into dashboards and clear recommendations that help business teams decide faster, with a focus on sales, supply chain, e-commerce, HR, and healthcare.
-
-📍 Egypt · Open to opportunities in Saudi Arabia
-🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
+### 📊 Junior Data Analyst | Business Intelligence & Data Solutions
+I transform raw data into actionable insights and interactive dashboards to drive data-driven business decisions.
 
 ---
 
-## About Me
+### 🛠️ Tech Stack & Tools
 
-Junior Data Analyst who works across the full analytics workflow: extracting and cleaning data in SQL Server and Python, modeling it into star schemas, building interactive dashboards in Power BI and Tableau, and translating the findings into actions for management. Comfortable working with ERP data from Odoo and SAP.
+- **Data Analysis & Visualization:** 
+  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
----
+- **Databases & Querying Languages:** 
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![DAX](https://img.shields.io/badge/DAX-00758F?style=flat-square&logo=databricks&logoColor=white)
 
-## Core Skills
+- **Enterprise & ERP Systems:** 
+  ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+  ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 
-| Category | Tools & Techniques |
-|---|---|
-| **Data Analysis** | Microsoft Excel (Power Query, PivotTables, Data Model), SQL Server (CTEs, joins, aggregations), Python (Pandas, NumPy), Statistical analysis |
-| **Business Intelligence** | Power BI (Star Schema, DAX measures, dynamic tooltips, slicers), Tableau (dashboards, calculated fields, filters) |
-| **ERP Systems** | Odoo, SAP |
-| **Data Modeling** | Star Schema design, fact & dimension tables, relationship management |
-| **Languages** | Arabic (native) · English (professional working proficiency) |
-
----
-
-## Featured Projects
-
-| Project | Stack | Key Finding / Impact |
-|---|---|---|
-| [**Olist E-Commerce Analytics**](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics) | SQL Server, Python, Power BI | Analyzed 8 raw datasets (1.5M+ rows). Found that over 97% of customers bought only once, and that 6.8% of orders were delayed. Recommended retention campaigns and regional fulfillment centers. |
-| [**Executive Sales & Performance**](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) | Excel (Power Query, Power Pivot, DAX) | Analyzed 9,900+ transactions worth $2.29M. Found that discounts above 20% generated 1,318 loss-making orders, and that Furniture earns a 2.5% margin versus 17.4% for Technology. |
-| [**Supply Chain & Logistics**](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics) | Python, Power BI | Built a 7-page dashboard tracking $37M in sales and 66K orders. Identified a 55% late delivery rate and pinpointed Pacific Asia and Europe as the most affected markets. |
-| [**Enterprise HR Analytics**](https://github.com/Ibrahim-Mostafa-Data/Enterprise-HR-Analytics) | SQL Server, Power BI | Modeled HR data for 290 employees, covering compensation, tenure, and sick leave. Flagged pay-band gaps and recommended succession planning for critical roles. |
-| [**Healthcare & Patient Outcomes**](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes.) | Python, Tableau | Analyzed admissions and billing. Found a 33.5% abnormal test rate and a 15.5-day average length of stay, and recommended staffing adjustments and insurer contract reviews. |
-| [**Tourism & Hotels Performance**](https://github.com/Ibrahim-Mostafa-Data/Tourism-Hotels-Performance) | Power BI | [Add one measurable insight] |
+- **Core Competencies & Statistics:** 
+  Data Cleaning, ETL, Data Modeling, Exploratory Data Analysis (EDA), Statistical Analysis, Dashboarding & UI/UX Design.
 
 ---
 
-## Certifications & Learning
+### 🚀 Featured Projects
 
-- [Add certifications here, e.g., Microsoft Power BI Data Analyst (PL-300), if you have them]
-- [Add what you're currently learning]
+| Project Name | Domain / Focus | Tech Stack & Tools | Quick Link |
+| :--- | :--- | :--- | :--- |
+| **Olist E-Commerce Analytics**[cite: 1] | E-Commerce & Customer Behavior | SQL Server, Python, Power BI[cite: 1] | [View Repository](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics) |
+| **Enterprise HR Analytics**[cite: 1] | Human Resources & Attrition[cite: 1] | SQL Server, Power BI[cite: 1] | [View Repository](https://github.com/Ibrahim-Mostafa-Data/Enterprise-HR-Analytics) |
+| **Supply Chain & Logistics**[cite: 1] | Operations & Supply Chain | SQL, Power BI | [View Repository](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics) |
+| **Healthcare & Patient Outcomes**[cite: 1] | Healthcare & Clinical Analytics | Python, Tableau[cite: 1] | [View Repository](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes) |
+| **Executive Sales & Performance**[cite: 1] | Sales Management & KPIs | Advanced Excel (Power Query & Data Model)[cite: 1] | [View Repository](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) |
+| **Tourism & Hotels Performance**[cite: 1] | Hospitality & Revenue Management | Power BI[cite: 1] | [View Repository](https://github.com/Ibrahim-Mostafa-Data/Tourism-Hotels-Performance) |
 
 ---
 
-## Let's Connect
+### 📈 GitHub Stats & Contribution
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrahim-Mostafa-Data&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" alt="Ebrahim's GitHub Stats" />
+</p>
 
-- LinkedIn: [linkedin.com/in/ebrahim-mostafa-data-analysis](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/)
-- Email: [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** [Ebrahim Mostafa - Data Analyst](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/)
+- **Email:** ebrahim.mostafa.data@gmail.com
+- **Location:** Egypt (Open to Opportunities in Saudi Arabia & Remote)
