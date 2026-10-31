@@ -35,7 +35,7 @@ Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, app
 | **Data Engineering** | ETL Processes, Data Cleaning & Preprocessing, Data Validation |
 | **Financial Analysis** | Profitability and margin analysis, financial performance reporting, cost and revenue analysis, accounting fundamentals |
 | **ERP Systems** | Odoo, SAP: purchasing (vendors, purchase orders, goods receipt, vendor invoices), sales invoicing, inventory review and reporting |
-| **Languages** | Arabic (native) · English (intermediate, B1; comfortable with technical terminology) |
+| **Languages** | Arabic (native) · English (intermediate,comfortable with technical terminology) |
 
 **Soft Skills:** Analytical Thinking, Communication, Attention to Detail, Problem Solving, Time Management, Self-Learning, Teamwork
 
