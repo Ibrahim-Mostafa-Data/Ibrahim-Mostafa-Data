@@ -35,7 +35,7 @@ Junior Data Analyst with hands-on experience delivering end-to-end analytics pro
 | **Data Engineering** | ETL Processes, Data Cleaning & Preprocessing, Data Validation |
 | **ERP Systems** | Odoo, SAP: purchasing (vendors, purchase orders, goods receipt, vendor invoices), sales invoicing, inventory review and reporting |
 | **Finance & Accounting** | Accounting fundamentals, financial reporting, profitability analysis |
-| **Languages** | Arabic (native) · English (intermediate, B1; comfortable with technical terminology) |
+| **Languages** | Arabic (native) · English (intermediate,comfortable with technical terminology) |
 
 **Soft Skills:** Analytical Thinking, Communication, Attention to Detail, Problem Solving, Time Management, Self-Learning, Teamwork
 
