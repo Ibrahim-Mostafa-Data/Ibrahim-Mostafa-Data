@@ -1,6 +1,6 @@
 # Ebrahim Mostafa
 
-### Junior Data Analyst · Power BI · SQL · Python · Excel · Tableau · Odoo · SAP
+### Junior Data Analyst · Advanced Excel · Power BI · SQL · Python · Financial Analysis · Odoo · SAP
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -11,16 +11,27 @@
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. My background combines a Commerce degree with hands-on analytics across sales, finance, supply chain, e-commerce, HR, healthcare, and hospitality.
+I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Advanced Excel, SQL, Power BI, Python, and Tableau. My Commerce degree gives me a strong base for financial analysis and business performance reporting.
 
 📍 Mansoura, Egypt · Open to relocate to Saudi Arabia
-🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com) · 💻 [GitHub](https://github.com/Ibrahim-Mostafa-Data)
 
 ---
 
 ## Professional Summary
 
-Junior Data Analyst with hands-on experience delivering end-to-end analytics projects: extracting and auditing data with T-SQL, cleaning and preprocessing it in Python, modeling it into star schemas, and building interactive dashboards in Power BI and Tableau. Experienced in KPI development, trend analysis, and turning findings into actionable recommendations. Holds a Commerce degree with working knowledge of accounting fundamentals, and has hands-on experience with Odoo and SAP business processes.
+Junior Data Analyst with strong hands-on skills in Advanced Excel, SQL, and Power BI, applied across full analytics projects: extracting and auditing data with T-SQL, cleaning and modeling it with Power Query and Python, building star-schema models with DAX, and delivering dashboards in Power BI and Tableau. Experienced in KPI development, profitability and margin analysis, trend analysis, and turning findings into actionable recommendations. Holds a Commerce degree with a foundation in accounting and financial reporting, and has hands-on experience with Odoo and SAP business processes.
+
+---
+
+## Advanced Excel
+
+| Area | Tools & Techniques |
+|---|---|
+| **Analysis** | PivotTables, PivotCharts, Slicers, Advanced Formulas, VLOOKUP, XLOOKUP |
+| **Data Modeling** | Power Pivot, Data Model, relationships between tables, DAX measures |
+| **Data Preparation** | Power Query for importing, cleaning, transforming, and merging data |
+| **Reporting** | Interactive Excel dashboards, financial summaries, and management reports |
 
 ---
 
@@ -31,11 +42,10 @@ Junior Data Analyst with hands-on experience delivering end-to-end analytics pro
 | **Business Intelligence** | Power BI (DAX, Data Modeling, Star Schema, Time Intelligence), Tableau, KPI Dashboards, Data Storytelling |
 | **Databases** | SQL Server, T-SQL (SELECT, JOINs, GROUP BY, Subqueries, CTEs, Views), Data Quality Audits |
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), Exploratory Data Analysis, Statistical Analysis, IQR Outlier Detection |
-| **Excel** | PivotTables, XLOOKUP, Power Query, Data Model, Advanced Formulas |
 | **Data Engineering** | ETL Processes, Data Cleaning & Preprocessing, Data Validation |
+| **Financial Analysis** | Profitability and margin analysis, financial performance reporting, cost and revenue analysis, accounting fundamentals |
 | **ERP Systems** | Odoo, SAP: purchasing (vendors, purchase orders, goods receipt, vendor invoices), sales invoicing, inventory review and reporting |
-| **Finance & Accounting** | Accounting fundamentals, financial reporting, profitability analysis |
-| **Languages** | Arabic (native) · English (intermediate,comfortable with technical terminology) |
+| **Languages** | Arabic (native) · English (intermediate, B1; comfortable with technical terminology) |
 
 **Soft Skills:** Analytical Thinking, Communication, Attention to Detail, Problem Solving, Time Management, Self-Learning, Teamwork
 
@@ -45,8 +55,8 @@ Junior Data Analyst with hands-on experience delivering end-to-end analytics pro
 
 | Project | Stack | Key Findings & Impact |
 |---|---|---|
+| [**Executive Sales & Performance**](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) | Excel (Power Query, Power Pivot, DAX) | Built a star-schema model over 9,994 sales records, analyzing $2.30M in sales and $286K in profit (12.5% margin). Found that Furniture earns a 2.5% margin versus 17.4% for Technology, and that orders with discounts of 30% or more are loss-making. |
 | [**Olist E-Commerce Analytics**](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics) | SQL Server, Python, Power BI | Audited 9 relational tables (1.5M+ rows) with T-SQL data-quality checks, then built a Python ETL pipeline and a 5-page dashboard. Found that 97% of customers bought only once and recommended retention campaigns over acquisition-only spend. Measured 93.2% on-time delivery. |
-| [**Executive Sales & Performance**](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) | Excel (Power Query, Data Model, DAX) | Built a star-schema model over 9,994 sales records, analyzing $2.30M in sales and $286K in profit (12.5% margin). Found that Furniture earns a 2.5% margin versus 17.4% for Technology, and that orders with discounts of 30% or more are loss-making. |
 | [**Supply Chain & Logistics**](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics) | Python, Power BI | Cleaned 66K orders using IQR-based outlier detection and built a 5-page dashboard. Found that 55% of deliveries were late, and that Second-Class shipments averaged about 4 days against 2 scheduled, a 2x gap that points to shipping-mode planning as a lever. |
 | [**Enterprise HR Analytics**](https://github.com/Ibrahim-Mostafa-Data/Enterprise-HR-Analytics) | SQL Server, Power BI | Audited HR schemas, built reusable SQL Views, and delivered a dashboard covering 290 employees. Identified a gender pay gap (average hourly rate of $17 for women versus $20 for men, about 15%) and a wide pay spread across departments. |
 | [**Healthcare & Patient Outcomes**](https://github.com/Ibrahim-Mostafa-Data/Healthcare-Patient-Outcomes.) | Python, Tableau | Processed about 54.9K patient records and built a 3-page interactive dashboard. Reported a 32.9% emergency admission share, a 33.5% abnormal test rate, and a 15.5-day average length of stay. |
