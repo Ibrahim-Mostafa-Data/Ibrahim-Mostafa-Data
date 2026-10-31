@@ -1,6 +1,6 @@
 # Ebrahim Mostafa
 
-### Junior Data Analyst · Advanced Excel · Power BI · SQL · Python · Financial Analysis · Odoo · SAP
+### Junior Data Analyst · Excel · Power BI · SQL · Python · Tableau · Financial Analysis · Odoo · SAP
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -11,27 +11,16 @@
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
-I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Advanced Excel, SQL, Power BI, Python, and Tableau. My Commerce degree gives me a strong base for financial analysis and business performance reporting.
+I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Excel, SQL, Power BI, Python, and Tableau. My Commerce degree gives me a strong base for financial analysis and business performance reporting.
 
 📍 Mansoura, Egypt · Open to relocate to Saudi Arabia
-🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com) · 💻 [GitHub](https://github.com/Ibrahim-Mostafa-Data)
+🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
 
 ---
 
 ## Professional Summary
 
-Junior Data Analyst with strong hands-on skills in Advanced Excel, SQL, and Power BI, applied across full analytics projects: extracting and auditing data with T-SQL, cleaning and modeling it with Power Query and Python, building star-schema models with DAX, and delivering dashboards in Power BI and Tableau. Experienced in KPI development, profitability and margin analysis, trend analysis, and turning findings into actionable recommendations. Holds a Commerce degree with a foundation in accounting and financial reporting, and has hands-on experience with Odoo and SAP business processes.
-
----
-
-## Advanced Excel
-
-| Area | Tools & Techniques |
-|---|---|
-| **Analysis** | PivotTables, PivotCharts, Slicers, Advanced Formulas, VLOOKUP, XLOOKUP |
-| **Data Modeling** | Power Pivot, Data Model, relationships between tables, DAX measures |
-| **Data Preparation** | Power Query for importing, cleaning, transforming, and merging data |
-| **Reporting** | Interactive Excel dashboards, financial summaries, and management reports |
+Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, applied across full analytics projects: extracting and auditing data with T-SQL, cleaning and modeling it with Power Query and Python, building star-schema models with DAX, and delivering dashboards in Power BI and Tableau. Experienced in KPI development, profitability and margin analysis, trend analysis, and turning findings into actionable recommendations. Holds a Commerce degree with a foundation in accounting and financial reporting, and has hands-on experience with Odoo and SAP business processes.
 
 ---
 
@@ -39,6 +28,7 @@ Junior Data Analyst with strong hands-on skills in Advanced Excel, SQL, and Powe
 
 | Category | Tools & Techniques |
 |---|---|
+| **Excel** | Advanced: PivotTables, PivotCharts, Slicers, VLOOKUP, XLOOKUP, Advanced Formulas, Power Query, Power Pivot, Data Model, DAX measures, interactive dashboards |
 | **Business Intelligence** | Power BI (DAX, Data Modeling, Star Schema, Time Intelligence), Tableau, KPI Dashboards, Data Storytelling |
 | **Databases** | SQL Server, T-SQL (SELECT, JOINs, GROUP BY, Subqueries, CTEs, Views), Data Quality Audits |
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), Exploratory Data Analysis, Statistical Analysis, IQR Outlier Detection |
