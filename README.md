@@ -14,7 +14,7 @@
 I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. My background combines a Commerce degree with hands-on analytics across sales, finance, supply chain, e-commerce, HR, healthcare, and hospitality.
 
 📍 Mansoura, Egypt · Open to relocate to Saudi Arabia
-🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com) · 💻 [GitHub](https://github.com/Ibrahim-Mostafa-Data)
+🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com) 
 
 ---
 
