@@ -1,6 +1,6 @@
 # Ebrahim Mostafa
 
-### Junior Data Analyst · Excel · Power BI · SQL · Python · Tableau · Financial Analysis · Odoo · SAP
+### Junior Data Analyst · Excel · Power BI · SQL · Python · Tableau · Financial Analysis 
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
