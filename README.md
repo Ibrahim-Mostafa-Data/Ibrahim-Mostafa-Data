@@ -8,8 +8,6 @@
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Excel, SQL, Power BI, Python, and Tableau. My Commerce degree gives me a strong base for financial analysis and business performance reporting.
 
