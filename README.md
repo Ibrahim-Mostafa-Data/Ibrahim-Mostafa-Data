@@ -1,6 +1,6 @@
 # Ebrahim Mostafa
 
-### Junior Data Analyst · Excel · Power BI · SQL · Python · Tableau 
+### Junior Data Analyst · Financial Analytics · Excel · Power BI · SQL · Python · Tableau
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-I turn raw business data into dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Excel, SQL, Power BI, Python, and Tableau. My Commerce degree gives me a strong base for financial analysis and business performance reporting.
+I turn raw business and financial data into interactive dashboards and clear recommendations that help teams make faster, better-informed decisions. I work across the full analytics stack, including Excel, SQL, Power BI, Python, and Tableau. As a **Commerce graduate with a strong finance and accounting background**, I combine financial statement analysis with hands-on data analytics—most recently building a multi-page **3-Statement Corporate Financial Analytics** project covering 4,980 US companies across 11 sectors (2014–2018)[cite: 1].
 
 📍 Mansoura, Egypt · Open to relocate to Saudi Arabia
 🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
@@ -18,7 +18,7 @@ I turn raw business data into dashboards and clear recommendations that help tea
 
 ## Professional Summary
 
-Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, applied across full analytics projects: extracting and auditing data with T-SQL, cleaning and modeling it with Power Query and Python, building star-schema models with DAX, and delivering dashboards in Power BI and Tableau. Experienced in KPI development, profitability and margin analysis, trend analysis, and turning findings into actionable recommendations. Holds a Commerce degree with a foundation in accounting and financial reporting, and has hands-on experience with Odoo and SAP business processes.
+Junior Data Analyst and **Commerce graduate** with a solid **finance and accounting background** and strong hands-on skills in Excel, SQL, Python, and Power BI. Experienced in financial statement and ratio analysis (profitability, liquidity, leverage, capital structure, and cash flow), KPI engineering, and translating financial metrics into actionable business recommendations. Applied across full analytics projects—cleaning and preparing datasets in Python, building star-schema models and DAX measures in Power BI, crafting custom HTML/CSS/SVG visuals, auditing data with T-SQL, and working with Odoo and SAP business workflows[cite: 1, 2, 3, 4, 5, 6, 9, 10].
 
 ---
 
@@ -26,16 +26,16 @@ Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, app
 
 | Category | Tools & Techniques |
 |---|---|
+| **Financial & 3-Statement Analysis** | Income Statement, Balance Sheet & Cash Flow analysis, profitability & margin analysis (Gross Margin, Operating Margin, Net Margin, EBITDA, ROE, ROA), liquidity & working capital (Current Ratio, Quick Ratio, Cash Ratio, Working Capital), leverage & solvency (Debt-to-Equity, Interest Coverage), cash conversion & Free Cash Flow (FCF, FCF Margin, CapEx), YoY & trend analysis[cite: 1, 2, 3, 4, 5, 6] |
 | **Excel** | Advanced: PivotTables, PivotCharts, Slicers, VLOOKUP, XLOOKUP, Advanced Formulas, Power Query, Power Pivot, Data Model, DAX measures, interactive dashboards |
-| **Business Intelligence** | Power BI (DAX, Data Modeling, Star Schema, Time Intelligence), Tableau, KPI Dashboards, Data Storytelling |
+| **Business Intelligence** | Power BI (DAX, Data Modeling, Star Schema, Time Intelligence, Custom HTML/CSS/SVG Visuals), Tableau, KPI Dashboards, Data Storytelling[cite: 1, 2, 3, 4, 5, 6] |
 | **Databases** | SQL Server, T-SQL (SELECT, JOINs, GROUP BY, Subqueries, CTEs, Views), Data Quality Audits |
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), Exploratory Data Analysis, Statistical Analysis, IQR Outlier Detection |
-| **Data Engineering** | ETL Processes, Data Cleaning & Preprocessing, Data Validation |
-| **Financial Analysis** | Profitability and margin analysis, financial performance reporting, cost and revenue analysis, accounting fundamentals |
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), Exploratory Data Analysis, Statistical Analysis, IQR Outlier Detection[cite: 10] |
+| **Data Engineering** | ETL Processes, Data Cleaning & Preprocessing, Data Validation[cite: 10] |
 | **ERP Systems** | Odoo, SAP: purchasing (vendors, purchase orders, goods receipt, vendor invoices), sales invoicing, inventory review and reporting |
-| **Languages** | Arabic (native) · English (intermediate,comfortable with technical terminology) |
+| **Languages** | Arabic (native) · English (intermediate, comfortable with technical terminology) |
 
-**Soft Skills:** Analytical Thinking, Communication, Attention to Detail, Problem Solving, Time Management, Self-Learning, Teamwork
+**Soft Skills:** Analytical Thinking, Financial & Business Acumen, Communication, Attention to Detail, Problem Solving, Time Management, Self-Learning, Teamwork
 
 ---
 
@@ -43,6 +43,7 @@ Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, app
 
 | Project | Stack | Key Findings & Impact |
 |---|---|---|
+| [**Financial Analytics & 3-Statement Intelligence**](https://github.com/Ibrahim-Mostafa-Data) | Python, Power BI, DAX, HTML/CSS | Cleaned and modeled **200+ Financial Indicators of US Stocks (2014–2018)** across **4,980 companies** and **11 sectors**, building a multi-page report (`Home`, `Overview`, `Profitability`, `Liquidity`, `Debt & Equity`, `Cash Flow`) with custom HTML/CSS visuals[cite: 1, 2, 3, 4, 5, 6, 9, 10]. Analyzed profitability (`ROE`, `ROA`, `Net Margin`, `EBITDA`), short-term liquidity (`Current Ratio`, `Quick Ratio`, `Working Capital`), capital structure (`Debt-to-Equity`, `Interest Coverage`), and cash conversion (`Operating Cash Flow`, `Free Cash Flow`, `FCF Margin`)[cite: 1, 2, 3, 4, 5, 6]. |
 | [**Executive Sales & Performance**](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) | Excel (Power Query, Power Pivot, DAX) | Built a star-schema model over 9,994 sales records, analyzing $2.30M in sales and $286K in profit (12.5% margin). Found that Furniture earns a 2.5% margin versus 17.4% for Technology, and that orders with discounts of 30% or more are loss-making. |
 | [**Olist E-Commerce Analytics**](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics) | SQL Server, Python, Power BI | Audited 9 relational tables (1.5M+ rows) with T-SQL data-quality checks, then built a Python ETL pipeline and a 5-page dashboard. Found that 97% of customers bought only once and recommended retention campaigns over acquisition-only spend. Measured 93.2% on-time delivery. |
 | [**Supply Chain & Logistics**](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics) | Python, Power BI | Cleaned 66K orders using IQR-based outlier detection and built a 5-page dashboard. Found that 55% of deliveries were late, and that Second-Class shipments averaged about 4 days against 2 scheduled, a 2x gap that points to shipping-mode planning as a lever. |
@@ -54,7 +55,7 @@ Junior Data Analyst with strong hands-on skills in Excel, SQL, and Power BI, app
 
 ## Education
 
-**Bachelor of Commerce**, Faculty of Commerce, Mansoura University · Graduated 2023
+**Bachelor of Commerce**, Faculty of Commerce, Mansoura University · Graduated 2023 · *Core foundation in accounting, financial analysis, and business reporting*
 
 ---
 
