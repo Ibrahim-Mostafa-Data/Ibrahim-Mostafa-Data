@@ -2,16 +2,12 @@
 
 ### Data Analyst · Financial Analytics · Excel · Power BI · SQL · Python · Tableau
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <span style="display:inline-flex;align-items:center;background:#107C41;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;padding:7px 12px;border-radius:4px;vertical-align:middle;line-height:1;">POWER QUERY</span>
-  <span style="display:inline-flex;align-items:center;background:#1E3A8A;color:#FFFFFF;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;padding:7px 12px;border-radius:4px;vertical-align:middle;line-height:1;">DATA MODELING</span>
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 I turn raw business and financial data into interactive dashboards and clear recommendations that help teams make faster, better-informed decisions. As a **Commerce graduate with a strong finance and accounting background**, I combine financial statement analysis and financial modeling with hands-on analytics across Excel, SQL, Power BI, Python, and Tableau, backed by dedicated finance analytics projects such as **Financial-Performance-Analysis** (4,980 US companies across 11 sectors, 2014–2018).
 
