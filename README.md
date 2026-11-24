@@ -3,8 +3,8 @@
 ### Data Analyst · Financial Analytics · Excel · Power BI · SQL · Python · Tableau
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-1E3A8A?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -75,4 +75,3 @@ Junior Data Analyst and **Commerce graduate** with a solid **finance and account
 
 - LinkedIn: [linkedin.com/in/ebrahim-mostafa-data-analysis](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/)
 - Email: [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
-- 
