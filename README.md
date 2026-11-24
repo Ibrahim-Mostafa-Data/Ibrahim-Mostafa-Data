@@ -9,16 +9,18 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-I turn raw business and financial data into interactive dashboards and clear recommendations that help teams make faster, better-informed decisions. As a **Commerce graduate with a strong finance and accounting background**, I combine financial statement analysis with hands-on analytics across Excel, SQL, Power BI, Python, and Tableau. My latest project, **Financial-Performance-Analysis**, is a multi-page 3-statement analytics report covering 4,980 US companies across 11 sectors (2014–2018).
+I turn raw business and financial data into interactive dashboards and clear recommendations that help teams make faster, better-informed decisions. As a **Commerce graduate with a strong finance and accounting background**, I combine financial statement analysis and financial modeling with hands-on analytics across Excel, SQL, Power BI, Python, and Tableau, backed by dedicated finance analytics projects such as **Financial-Performance-Analysis** (4,980 US companies across 11 sectors, 2014–2018).
 
-📍 Mansoura, Egypt · Open to relocate to Saudi Arabia  
+📍 Based in Egypt · Open to relocate to Saudi Arabia  
 🔗 [LinkedIn](https://www.linkedin.com/in/ebrahim-mostafa-data-analysis/) · 📧 [ebrahim.mostafa.data@gmail.com](mailto:ebrahim.mostafa.data@gmail.com)
+
+[![Financial Analytics dashboard](https://raw.githubusercontent.com/Ibrahim-Mostafa-Data/Financial-Performance-Analysis/main/Overview.png)](https://github.com/Ibrahim-Mostafa-Data/Financial-Performance-Analysis)
 
 ---
 
 ## Professional Summary
 
-Junior Data Analyst and **Commerce graduate** with a solid **finance and accounting background** and hands-on skills in Excel, SQL, Python, and Power BI. I analyze financial statements and ratios (profitability, liquidity, leverage, and cash flow), engineer KPIs, and turn the results into actionable business recommendations. My project work covers the full cycle: cleaning data in Python, building star-schema models and DAX measures in Power BI, designing custom HTML/CSS/SVG visuals, and auditing data with T-SQL. I also work with Odoo and SAP business workflows.
+Junior Data Analyst and **Commerce graduate** with a solid **finance and accounting background** and hands-on skills in Excel, SQL, Python, Power BI, and Tableau. I can step into data analysis, business intelligence, and financial analysis roles—analyzing financial statements, profitability, liquidity, leverage, and cash flow, engineering KPIs, and building finance-focused analytics projects that turn numbers into clear business recommendations. My work covers the full analytics workflow: cleaning data in Python, building star-schema models and DAX measures in Power BI, designing custom HTML/CSS/SVG visuals, and querying/auditing data with T-SQL.
 
 ---
 
@@ -32,7 +34,6 @@ Junior Data Analyst and **Commerce graduate** with a solid **finance and account
 | **Databases** | SQL Server, T-SQL (JOINs, CTEs, Views, Subqueries), data-quality audits |
 | **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn), EDA, IQR outlier detection |
 | **Data Preparation** | ETL, data cleaning, data validation |
-| **ERP Systems** | Odoo, SAP: purchasing, sales invoicing, inventory reporting |
 | **Languages** | Arabic (native) · English (intermediate, comfortable with technical terminology) |
 
 ---
@@ -41,7 +42,7 @@ Junior Data Analyst and **Commerce graduate** with a solid **finance and account
 
 | Project | Stack | Key Findings & Impact |
 |---|---|---|
-| [**Financial-Performance-Analysis**](https://github.com/Ibrahim-Mostafa-Data/Financial-Performance-Analysis) | Python, Power BI, DAX, HTML/CSS/SVG | Cleaned and modeled **200+ financial indicators of US stocks (2014–2018)**: 4,980 companies, 11 sectors. Built a 6-page report (Home, Overview, Profitability, Liquidity, Debt & Equity, Cash Flow) with custom HTML/CSS visuals. Found that free cash flow converted only about half of operating cash flow (8.68T of 17.32T), and that Financial Services dominates negative working capital, so liquidity should be read per sector. |
+| [**Financial-Performance-Analysis**](https://github.com/Ibrahim-Mostafa-Data/Financial-Performance-Analysis) | Python, Power BI, DAX, HTML/CSS/SVG | Cleaned and modeled **200+ financial indicators of US stocks (2014–2018)**: 4,980 companies, 11 sectors, in a 6-page report with custom HTML/CSS visuals. Revenue grew ~17% (18.4T → 21.5T) at a 7.48% net margin; ROE of 10.74% versus ROA of 1.99% showed leverage-driven returns, and Financial Services drove the negative working capital (-14.87T in 2018). |
 | [**Executive Sales & Performance**](https://github.com/Ibrahim-Mostafa-Data/Executive-Sales-Performance) | Excel (Power Query, Power Pivot, DAX) | Star-schema model over 9,994 sales records ($2.30M in sales, 12.5% margin). Furniture earns a 2.5% margin versus 17.4% for Technology, and orders discounted 30% or more are loss-making. |
 | [**Olist E-Commerce Analytics**](https://github.com/Ibrahim-Mostafa-Data/Olist-E-Commerce-Analytics) | SQL Server, Python, Power BI | T-SQL audit of 9 tables (1.5M+ rows), Python ETL pipeline, and a 5-page dashboard. 97% of customers bought only once, so retention campaigns beat acquisition-only spend. On-time delivery: 93.2%. |
 | [**Supply Chain & Logistics**](https://github.com/Ibrahim-Mostafa-Data/-Supply-Chain-Logistics) | Python, Power BI | Cleaned 66K orders with IQR outlier detection and built a 5-page dashboard. 55% of deliveries were late, and Second-Class shipments averaged about 4 days against 2 scheduled, which points to shipping-mode planning as the lever. |
